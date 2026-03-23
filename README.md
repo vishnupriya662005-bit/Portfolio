@@ -1,2 +1,2 @@
 # Portfolio
-i have used html,css and Js.
+i have used html and css.
